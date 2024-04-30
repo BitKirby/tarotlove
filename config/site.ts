@@ -7,8 +7,8 @@ const OPEN_SOURCE_URL = "https://github.com/BitKirby/tarotlove";
 const baseSiteConfig = {
   name: "Tarot of Love",
   description: "A free tarot reading platform",
-  url: "https://tarot-love.vercel.app/",
-  ogImage: "https://tarot-love.vercel.app/og.png",
+  url: "https://tarotlove.vercel.app/",
+  ogImage: "https://tarotlove.vercel.app/og.png",
   metadataBase: "/",
   keywords: ["tarot of Love", "tarot Spreading", "tarot cards"],
   authors: [
@@ -37,7 +37,11 @@ const baseSiteConfig = {
       href: "",
       icon: BsTwitterX,
     },
-    { name: "github", href: "", icon: BsGithub },
+    {
+      name: "github",
+      href: "https://github.com/BitKirby/tarotlove",
+      icon: BsGithub,
+    },
   ],
 };
 

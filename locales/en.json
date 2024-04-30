@@ -1,0 +1,33 @@
+{
+  "Hero": {
+    "title1": "Tarot of",
+    "title2": "Love",
+    "title3": "",
+    "description": "Tarot card reading, tarot spreads, card interpretation, divination consultation."
+  },
+  "SocialProof": {
+    "maker": "Highly recommended by tarot masters."
+  },
+  "Feature": {
+    "title": "Features"
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "title2": "",
+    "description": "",
+    "doYouLike": ""
+  },
+  "WallOfLove": {
+    "title": "Wall of Love",
+    "description1": "If you recommend it on other platform,",
+    "description2": "please let me know",
+    "description3": ", I'll display your recommendation here."
+  },
+  "FAQ": {
+    "title": "FAQs",
+    "description": "Here are some of the most common questions."
+  },
+  "CTAButton": {
+    "title": "Get Started Now"
+  }
+}

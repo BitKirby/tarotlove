@@ -1,0 +1,33 @@
+{
+  "Hero": {
+    "title1": "塔罗之",
+    "title2": "恋",
+    "title3": "",
+    "description": "塔罗占卜，塔罗牌阵，牌意解析，占卜咨询。"
+  },
+  "SocialProof": {
+    "maker": "塔罗师力荐"
+  },
+  "Feature": {
+    "title": "功 能"
+  },
+  "Pricing": {
+    "title": "定 价",
+    "title2": "",
+    "description": "",
+    "doYouLike": ""
+  },
+  "WallOfLove": {
+    "title": "Wall of Love",
+    "description1": "如果你在其他平台推荐了我们的产品，",
+    "description2": "请告诉我",
+    "description3": "，我会在这里展示你的推荐。"
+  },
+  "FAQ": {
+    "title": "FAQs",
+    "description": "这里有一些最常见的问题。"
+  },
+  "CTAButton": {
+    "title": "立即体验"
+  }
+}

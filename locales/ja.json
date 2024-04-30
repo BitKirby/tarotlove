@@ -1,0 +1,33 @@
+{
+  "Hero": {
+    "title1": "タロットの",
+    "title2": "恋",
+    "title3": "",
+    "description": "タロットくじ、タロットスプレッド、カード解説、占いの相談。"
+  },
+  "SocialProof": {
+    "maker": "タロットマスターおすすめ"
+  },
+  "Feature": {
+    "title": "特徴"
+  },
+  "Pricing": {
+    "title": "価格",
+    "title2": "",
+    "description": "",
+    "doYouLike": ""
+  },
+  "WallOfLove": {
+    "title": "Wall of Loves",
+    "description1": "ほかのプラットフォームで推薦した場合、",
+    "description2": "教えてください",
+    "description3": "、ここにあなたのおすすめを表示します。"
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "description": "よくある質問"
+  },
+  "CTAButton": {
+    "title": "今すぐ始める"
+  }
+}

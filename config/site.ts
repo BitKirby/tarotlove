@@ -2,7 +2,7 @@ import { SiteConfig } from "@/types/siteConfig";
 import { BsGithub, BsTwitterX } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 
-const OPEN_SOURCE_URL = "https://github.com/BitKirby/tarotlove/tree/main";
+const OPEN_SOURCE_URL = "https://github.com/BitKirby/tarotlove";
 
 const baseSiteConfig = {
   name: "Tarot of Love",
@@ -19,7 +19,7 @@ const baseSiteConfig = {
     },
   ],
   creator: "@aitaluo",
-  openSourceURL: "https://github.com/BitKirby/tarotlove/tree/main",
+  openSourceURL: "https://github.com/BitKirby/tarotlove",
   themeColors: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },

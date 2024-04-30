@@ -2,13 +2,13 @@ import { SiteConfig } from "@/types/siteConfig";
 import { BsGithub, BsTwitterX } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 
-const OPEN_SOURCE_URL = "";
+const OPEN_SOURCE_URL = "https://github.com/BitKirby/tarotlove/tree/main";
 
 const baseSiteConfig = {
   name: "Tarot of Love",
   description: "A free tarot reading platform",
-  url: "",
-  ogImage: "",
+  url: "https://tarot-love.vercel.app/",
+  ogImage: "https://tarot-love.vercel.app/og.png",
   metadataBase: "/",
   keywords: ["tarot of Love", "tarot Spreading", "tarot cards"],
   authors: [
@@ -19,7 +19,7 @@ const baseSiteConfig = {
     },
   ],
   creator: "@aitaluo",
-  openSourceURL: "",
+  openSourceURL: "https://github.com/BitKirby/tarotlove/tree/main",
   themeColors: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },

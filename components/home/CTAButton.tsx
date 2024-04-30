@@ -18,7 +18,7 @@ const CTAButton = ({ locale }: { locale: any }) => {
   return (
     <Link
       //TODO
-      href=""
+      href="#"
       target="_blank"
       className="flex justify-center mt-16"
       rel="noopener noreferrer nofollow"
